@@ -1,11 +1,11 @@
 # Todo Application
 
-A simple todo application built with Spring Boot, Thymeleaf, and Spring Security.
+A simple todo application built with Spring Boot,and Spring Security.
 
 ## Features
 
 - User authentication and authorization with Spring Security
-- Good frontend using Thymeleaf (HTML/CSS)
+- Basic operation for todo application
 
 ## Getting Started
 
